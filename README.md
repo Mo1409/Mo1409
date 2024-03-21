@@ -6,7 +6,7 @@
 - 🌱 I’m currently Improving my Skills
 
 ## Get in Contact
-- 📫 You can reach me via hotmail or gmail **mohamadkd14@hotmail.com** --- **mohamadkd10@gmail.com**
+- 📫 You can reach me via hotmail or gmail **mohamadkd14@hotmail.com** <---> **mohamadkd10@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
