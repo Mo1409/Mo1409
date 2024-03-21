@@ -1,9 +1,12 @@
-### [Mohamad Diab](https://github.com/Mo1409)
+### Hi 👋, I’m Mohamad Diab
 
-<h1 align="center">Hi 👋, I'm Mohamad Diab</h1>
-<h3 align="center">Computer Science Student</h3>
+## About Me
+- 🔭 Software Development
+- 🎓 Computer Science student - PUCPR
+- 🌱 I’m currently Improving my Skills
 
-- 📫 Get in Contact **mohamadkd14@hotmail.com**
+## Get in Contact
+- 📫 You can reach me via hotmail or gmail **mohamadkd14@hotmail.com** --- **mohamadkd10@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
